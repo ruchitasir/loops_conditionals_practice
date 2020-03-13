@@ -8,10 +8,26 @@
 
 ---
 
-Title: Loops and Errors Lab<br>
+Title: Loops and Errors Assignment<br>
 Duration: 1 hr approx<br>
 Creator: Brandi Butler (Inspired by [GA-ATX's lab](https://git.generalassemb.ly/WDIplus-ATX/loops-and-errors) - thank you!)<br>
 Topics: Errors, While loops, For Loops<br>
+
+---
+
+## Turning in this assignment
+
+* `Fork` and `clone` this repository as we practiced in class
+* Once you've cloned to your local machine, open `solutions.js`
+* As you come up with solutions to each section, write them in `solutions.js`
+  * Remember, you can execute the code with the command: `node solutions.js`
+  * For text (or non-code) answers, write them in multi-line comments
+* Once you've either finished the assignment OR put in 3 hours of work turn in the assignment
+  * `git add -A`
+  * `git commit -m "Adding my homework"`
+  * `git push origin master`
+  * Go to your Github repository and click "New Pull Request"
+  * Comment with any questions you ran into!
 
 ---
 
@@ -26,7 +42,7 @@ So far, we have learned about the following topics
 * For loops
 
 
-Let's go over them for a refresher. We will continue to use these concepts throughout the course.
+Let's get some extra practice with them. We will continue to use these concepts throughout the course.
 
 Work through the following prompts in turn:
 
